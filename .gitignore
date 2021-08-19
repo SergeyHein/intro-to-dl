@@ -12,6 +12,7 @@ tensorboard_logs
 # week3
 102flowers.tgz
 imagelabels.mat
+weights.h5
 
 # week4
 lfw-deepfunneled.tgz
